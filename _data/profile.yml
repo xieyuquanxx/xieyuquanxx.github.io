@@ -3,14 +3,12 @@ secondary_name: ""
 navbar_name: "Yuquan Xie"
 
 positions:
-- logo: /assets/images/badges/hit.jpeg  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/hit.jpeg
+  name: Harbin Institute of Technology, Shenzhen
 
 
 email: "xieyuquan20016@gmail.com"
-# cv_link: link-to-your-cv-file
-gscholar: KO77A2oAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: KO77A2oAAAAJ
 github: xieyuquanxx
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -51,9 +49,5 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Special Grand Prize Scholarship for Postgraduate Students
+  date: 2023
