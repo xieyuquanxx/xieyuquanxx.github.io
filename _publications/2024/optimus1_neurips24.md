@@ -2,7 +2,7 @@
 title:          "Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks"
 date:           2024-08-07 00:01:00 +0800
 selected:       true
-pub:            "Conference on Neural Information Processing Systems(NeurIPS 2024)"
+pub:            "Conference on Neural Information Processing Systems(NeurIPS)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2024"
 
@@ -17,5 +17,6 @@ authors:
   - Dongmei Jiang
   - Liqiang Nie
 links:
+  Paper: https://arxiv.org/abs/2408.03615 
   Code: https://github.com/JiuTian-VL/Optimus-1
 ---
