@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Yuquan Xie"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Yuquan Xie"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/hit.jpeg  # Logo is optional
   name: Position 1 with logo
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "xieyuquan20016@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: KO77A2oAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: xieyuquanxx
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -35,16 +35,14 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Harbin Institute of Technology, Shenzhen
+  logo: /assets/images/badges/hit.jpeg
+  position: M.S. in Computer Science and Technology
+  date: Sep. 2023 - present
+- name: Central South University
+  logo: /assets/images/badges/csu.png
+  position: B.S. in Computer Science and Technology
+  date: Sep. 2019 - Jul. 2023
 
 # experience:
 # - name: Peking University
