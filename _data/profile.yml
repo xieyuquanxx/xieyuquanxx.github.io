@@ -20,9 +20,6 @@ github: xieyuquanxx
 short_bio_text_justify: false
 short_bio: >-
   <p>我是哈工大深圳的23级硕士生，本科毕业于中南大学计算机科学与技术专业。我的研究方向包括开放世界智能体，多模态大模型，Agentic RL。</p>
-  <p>
-  ：实习
-  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
@@ -40,6 +37,7 @@ education:
 
 experience:
 - name: 阿里巴巴-淘天集团-搜推智能产品事业部
+  logo: /assets/images/badges/taotian.jpeg
   position: 算法工程师实习生
   date: 2025-5~9月
 
